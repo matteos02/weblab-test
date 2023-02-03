@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Unbounded&display=swap");
+
+.navTitle {
+  background-image: linear-gradient(70%, rgb(165, 182, 225), rgb(107, 151, 204));
+  font-family: "Unbounded", cursive;
+  font-size: 20px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.navContainer {
+  background-color: linear-gradient(70%, blue, white);
+}
